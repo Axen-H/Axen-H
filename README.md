@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning on **Polytecnic LP3I North jakarta** 
 
+- ⚡ Fun fact: i'm A gamer Currently i Playing **Elden Ring**
+
 #### Skill
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
