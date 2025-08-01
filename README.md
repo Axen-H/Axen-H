@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 #### Database
 <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
->
+----
+#### Play Games
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axen-H/Axen-H/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axen-H/Axen-H/output/pacman-contribution-graph.svg">
